@@ -1,0 +1,11 @@
+<!DOCTYPE html> 
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title> Practica 3b</title>
+   </head>
+   <body>
+     <h1 style="color: red;border: 2px solid blue;"> Practica estilos inline </h1>
+     <p style="color:yellow;background-color: black"> Este es mi ejemplo </p>
+   </body>
+</html>
