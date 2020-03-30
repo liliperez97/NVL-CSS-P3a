@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Upgrade formación - Ejemplo</title>
+     <style>
+       h1 {
+         color: red;
+         border: 2px solid blue;
+       }
+       p {
+         color: yellow;
+         background-color:black;
+       }
+     </style>
+   </head>
+   <body>
+     <h1> Practica de estilos embebidos </h1>
+     <p> Este es mi ejemplo </p>
+   </body>
+</html>
