@@ -1,0 +1,6 @@
+<div> {
+margin: red 10px ;
+border: orange 16px ;
+padding: yellow 32px ;
+background: pink url(photo.png) auto;
+</div>
